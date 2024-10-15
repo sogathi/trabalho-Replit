@@ -1,0 +1,53 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color:#BFD5E2 ;
+}
+button{
+  font-size: 20px;
+  font-family: 'Protest Guerrilla', sans-serif;
+  background-color: #BFD5E2;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:active {
+  background-color: #f780ff;
+  box-shadow: 0 5px #ededed;
+  transform: translateY(0px);
+}
+
+h1{
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  color: #8D909B;
+  text-align: center;
+
+}
+h3{
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  color:#66aeb7;
+  text-align: center;
+  }
+
+a{
+  font-family: 'Edu Australia VIC WA NT Hand Guides';
+  color: #646EA0;
+  text-decoration: none;
+  padding: 25px;
+  text-align: center;
+  font-size: 250%;
+}
+href{
+  font-family: "Protest Guerrilla";
+  color: #646EA0;
+  text-decoration: none;
+  padding: 25px;
+  text-align: center;
+  font-wei: 500px;
+}
